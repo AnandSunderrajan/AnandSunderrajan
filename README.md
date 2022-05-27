@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @AnandSunderrajan
 - 👀 I’m interested in Programming, Soccer, F1, and loads of other stuff!
-- 🌱 I’m currently learning AWS and it's integration with ML
+- 🌱 Currently reading [Facebook's OPT: Open Pre-trained Transformer Language Models paper](https://arxiv.org/pdf/2205.01068v3.pdf)
 - 📫 Check out https://anandsunderrajan.github.io for my resume and ways to reach me
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I've lived in 14 countries so far and visited a whole lot more
